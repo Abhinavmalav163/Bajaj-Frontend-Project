@@ -1,4 +1,4 @@
-# Bajaj-Frontend-Project
+Frontend-Project
 Created a frontend website with following functionalities: Develop and deploy a doctor listing page that includes: 
 ## Key Features
 
